@@ -15,7 +15,7 @@ var backgroundImg
 var bg = "bg1.png";
 
 function preload() {
-  //changeBackgroundColor();
+   changeBackgroundColor();
    backgroundImg=loadImage(bg)
 }
 
